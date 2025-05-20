@@ -1,4 +1,4 @@
-# Constrained Serial Dictatorship
+# Constrained Serial Dictatorship can be Fair
 
 ## Abstract
 
